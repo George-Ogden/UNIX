@@ -22,15 +22,15 @@ Use `git pull` to check for updates
 
 ## Commands
 
-I take no credit for writing any of the commands - I have just collated them:
+The full list of commands and programs:
 - [curl](https://curl.haxx.se/)
     - curl
+- [GNU nano](https://www.nano-editor.org/)
+    - nano
 - [VIM the editor](https://www.vim.org/)
     - diff
     - gvim
     - vi/vim
-- [GNU nano](https://www.nano-editor.org/)
-    - nano
 - [Coreutils](https://www.gnu.org/software/coreutils/)
     - basename
 	- cat
