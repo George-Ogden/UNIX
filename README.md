@@ -16,6 +16,7 @@ or you can do it manually.
 
 ## Commands
 
+- curl (thanks to [curl](https://curl.haxx.se/ "View Home Page")
 - diff (thanks to [VIM the editor](https://www.vim.org/ "View Home Page")
 - gvim (thanks to [VIM the editor](https://www.vim.org/ "View Home Page")
 - nano (thanks to [GNU nano](https://www.nano-editor.org/ "View Home Page")
