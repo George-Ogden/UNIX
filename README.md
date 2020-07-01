@@ -16,18 +16,126 @@ or you can do it manually.
 
 ## Commands
 
-- curl (thanks to [curl](https://curl.haxx.se/ "View Home Page")
-- diff (thanks to [VIM the editor](https://www.vim.org/ "View Home Page")
-- gvim (thanks to [VIM the editor](https://www.vim.org/ "View Home Page")
-- ls (thanks to [Peltoche/lsd](https://github.com/Peltoche/lsd "View GitHub Code")
-- nano (thanks to [GNU nano](https://www.nano-editor.org/ "View Home Page")
-- rm
-- tee (thanks to [VIM the editor](https://www.vim.org/ "View Home Page")
-- touch 
-- vi/vim (thanks to [VIM the editor](https://www.vim.org/ "View Home Page")
-- winpty-agent (thanks to [VIM the editor](https://www.vim.org/ "View Home Page")
-- xxd (thanks to [VIM the editor](https://www.vim.org/ "View Home Page")
+I take no credit for writing any of the commands - I have just collated them:
+- [curl](https://curl.haxx.se/)
+    - curl
+- [VIM the editor](https://www.vim.org/)
+    - diff
+    - gvim
+    - vi/vim
+- [GNU nano](https://www.nano-editor.org/)
+    - nano
+- [Coreutils](https://www.gnu.org/software/coreutils/)
+    - basename
+	- cat
+	- chgrp
+	- chmod
+	- chown
+	- chroot
+	- cksum
+	- comm
+	- cp
+	- csplit
+	- curl
+	- cut
+	- date
+	- dd
+	- df
+	- diff
+	- dir
+	- dircolors
+	- dirname
+	- du
+	- echo
+	- env
+	- expand
+	- expr
+	- factor
+	- false
+	- fmt
+	- fold
+	- gdate
+	- gecho
+	- ginstall
+	- gln
+	- gmkdir
+	- grmdir
+	- groups
+	- gsort
+	- gvim
+	- head
+	- hostid
+	- hostname
+	- id
+	- install
+	- join
+	- kill
+	- libiconvdll
+	- libintldll
+	- link
+	- listtxt
+	- ln
+	- logname
+	- ls
+	- mdsum
+	- mkdir
+	- mkfifo
+	- mknod
+	- mv
+	- nano
+	- nice
+	- nl
+	- nohup
+	- od
+	- paste
+	- pathchk
+	- pinky
+	- pr
+	- printenv
+	- printf
+	- ptx
+	- pwd
+	- readlink
+	- READMEmd
+	- rm
+	- rmdir
+	- seq
+	- setuidgid
+	- shasum
+	- shred
+	- sleep
+	- sort
+	- split
+	- stat
+	- stty
+	- su
+	- sum
+	- sync
+	- tac
+	- tail
+	- tee
+	- test
+	- touch
+	- tr
+	- true
+	- tsort
+	- tty
+	- uname
+	- unexpand
+	- uniq
+	- unlink
+	- uptime
+	- users
+	- vdir
+	- vi
+	- vim
+	- wc
+	- who
+	- whoami
+	- winptyagent
+	- xxd
+	- yes
 
 ## Updates
 
-Use `git pull` to check for updates or use the "working" branch to try features as they are developed.
+Use `git pull` to check for updates
