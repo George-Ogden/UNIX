@@ -1,18 +1,24 @@
-# commands
+# UNIX
 
-This repository is a series of unix commands that you can add to path and use as alternative commands.
+This repository is a series of UNIX commands that you can add to path and use as alternative commands. 
+
+If you type in UNIX commands when using Windows by mistake, no longer worry - this repo is for you. There are lots of UNIX commands that you can use to make Windows feel like Linux. I have not written any of the commands - I have just collated them so that you can run them. For a full list of commands, see [commands](#commands).
 
 ## Use
 
 Clone the repository:
 ```
-git clone https://github.com/George-Ogden/commands.git
+git clone https://github.com/George-Ogden/UNIX.git
 ```
 Then add the folder to the PATH environmental variable:
 ```
 setx path "%path%;c:\wherever\you\cloned\it\commands"
 ```
 or you can do it manually.
+
+## Updates
+
+Use `git pull` to check for updates
 
 ## Commands
 
@@ -135,7 +141,3 @@ I take no credit for writing any of the commands - I have just collated them:
 	- winptyagent
 	- xxd
 	- yes
-
-## Updates
-
-Use `git pull` to check for updates
