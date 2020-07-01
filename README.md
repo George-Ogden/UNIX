@@ -18,6 +18,7 @@ or you can do it manually.
 
 - nano (thanks to [GNU nano](https://www.nano-editor.org/ "View Home Page")
 - touch
+- rm
 
 
 ## Updates
