@@ -19,6 +19,7 @@ or you can do it manually.
 - curl (thanks to [curl](https://curl.haxx.se/ "View Home Page")
 - diff (thanks to [VIM the editor](https://www.vim.org/ "View Home Page")
 - gvim (thanks to [VIM the editor](https://www.vim.org/ "View Home Page")
+- ls (thanks to [Peltoche/lsd](https://github.com/Peltoche/lsd "View GitHub Code")
 - nano (thanks to [GNU nano](https://www.nano-editor.org/ "View Home Page")
 - rm
 - tee (thanks to [VIM the editor](https://www.vim.org/ "View Home Page")
